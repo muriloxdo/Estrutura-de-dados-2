@@ -1,3 +1,6 @@
+//Murilo Xavier de Oliveira
+//Ciência da Computação
+
 #include <stdlib.h>
 #include <stdio.h>
 #define MAX 10
