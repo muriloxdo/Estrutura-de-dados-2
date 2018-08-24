@@ -10,7 +10,7 @@ Trabalhos da matéria de Estrutura de Dados II
 
 Prof.: **Ricardo Parizotto**
 
-Aluna: **Murilo Xavier de Oliveira**
+Aluno: **Murilo Xavier de Oliveira**
 
 *CIÊNCIA DA COMPUTAÇÃO*
 
